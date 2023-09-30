@@ -13,7 +13,7 @@ comments-enabled: false # true to enable disqus comments, false to hide them
 author:
   name: Cesar
   bio: This is a history blog
-  userpicture: 
+  userpicture: https://loremflickr.com/500/500
   username: # general username
   github: ceromogo # github username
   twitter: # twitter username
