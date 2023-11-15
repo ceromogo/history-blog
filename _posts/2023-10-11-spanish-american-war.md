@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nationalism in Europe
+title: Spanish Amercan War
 description: Comming Soon...
 summary: Comming Soon...
 tags: 

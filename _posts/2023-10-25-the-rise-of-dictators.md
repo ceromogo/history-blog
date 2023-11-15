@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nationalism in Europe
+title: The Rise of Dictatators
 description: Comming Soon...
 summary: Comming Soon...
 tags: 
