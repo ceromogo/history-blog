@@ -20,7 +20,6 @@ The D-day was the largest seaborne invasion in history.With 13,000 aircraft, 500
 
 ---
 
-
 ## Debatable Cuestions
 
 * Was the use of blitzkrieg by Germany a decisive factor in their early successes during World War II, or were other factors equally or more important?
@@ -28,5 +27,3 @@ The D-day was the largest seaborne invasion in history.With 13,000 aircraft, 500
 * To what extent did the D-day invasion play a crucial role in turning the tide of World War II, and were there alternative strategies that could have been equally or more effective for the Allies?
 
 * Did the United States' entry into World War II solely result from the attack on Pearl Harbor, or were there underlying factors and motivations that influenced this decision?
-
-
