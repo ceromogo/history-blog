@@ -4,7 +4,7 @@ title: Impacto de la novela grafica Maus
 description: Comming Soon...
 summary: Comming Soon...
 tags: Español, Literatura
-minute: 0
+minute: 1
 ---
 
 ### ¿Como se presentan a los personajes en la obra?
