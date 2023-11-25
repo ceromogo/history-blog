@@ -9,11 +9,11 @@ minute: 1
 
 ### ¿Como se presentan a los personajes en la obra?
 
-Los personajes en la obra son representados por animales antropomórficos, cada raza, representa una demografía distinta. Los ratones, representan a los judios, los gatos a los alemanes, los cerdos a los polacos, las ranas a los franceses, los peces a los británicos, y los perros a los estadounidenses. 
+Los personajes en la obra son representados por animales antropomórfos, cada raza, representa una demografía distinta. Los ratones, representan a los judios, los gatos a los alemanes, los cerdos a los polacos, las ranas a los franceses, los peces a los británicos, y los perros a los estadounidenses.
 
 ### ¿Cual es su importancia en la narrativa?
 
-* El uso de animales antropomórficos, ayuda a distinguir entre personajes basándonos en su creencia o nacionalidad.
+* El uso de animales antropomórfos, ayuda a distinguir entre personajes basándonos en su creencia o nacionalidad.
 * Crea una relación entre el animal y la clase representada, dando lugar a análisis más profundo. (Por ejemplo: Los judios son retratados como ratones, una plaga que es exterminada del mismo modo como se exterminaban los ratones en aquella época.)
 * Ayuda al lector a identificar los personajes, algo imposible* si se tratase solo de humanos, ya que se necesitaría mayor contextualización.
 
