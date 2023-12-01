@@ -12,10 +12,9 @@ minute: 1
 
 ### ¿Como se presentan a los personajes en la obra?
 
-<img style="float: right;" src="http://transnationalismdiaspora-lwc.weebly.com/uploads/8/7/4/5/8745414/1855191.png">
+<img align="right" src="http://transnationalismdiaspora-lwc.weebly.com/uploads/8/7/4/5/8745414/1855191.png">
 
 Los personajes en la obra son representados por animales antropomorfos, cada raza, representa una demografía distinta. Los ratones, representan a los judios, los gatos a los alemanes, los cerdos a los polacos, las ranas a los franceses, los peces a los británicos, y los perros a los estadounidenses.
-
 
 ### ¿Cual es su importancia en la narrativa?
 
