@@ -7,6 +7,9 @@ tags: Español, Literatura
 minute: 1
 ---
 
+![](https://static.timesofisrael.com/www/uploads/2014/01/maus-mask-e1390470010394-1024x640.jpg)
+![]
+
 ### ¿Como se presentan a los personajes en la obra?
 
 Los personajes en la obra son representados por animales antropomorfos, cada raza, representa una demografía distinta. Los ratones, representan a los judios, los gatos a los alemanes, los cerdos a los polacos, las ranas a los franceses, los peces a los británicos, y los perros a los estadounidenses.
