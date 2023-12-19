@@ -14,7 +14,7 @@ The war began as a resoponse to German invasion of Poland. Then, the United Stat
 The blitzkrieg (Lightning War) was an strategy used by Germany to move quicker and defeat their enemies in short periods of time. The defeat of Poland is an example of the use of this strategy. Germany also used it to annex Norway, Belgium, Denmark, France and Netherlands.
 
 ## The D-day
-The D-day was the largest seaborne invasion in history.With 13,000 aircraft, 500 naval ships, 3,000 landing craft, and over 156,00 Allied troops.who crossed the English Channel and landed. Thid was a surprise attack arranged by June 6 of 1944, in the beaches of Normandy, France. This attack was led by the presidents Franklin Roosevelt, Joseph Stalin and the prime minister Winston Churchill, who inspired many people with his speeches to participate in the invasion and helped leading the Allies to victory.
+The D-day was the largest seaborne invasion in history. With 13,000 aircraft, 500 naval ships, 3,000 landing craft, and over 156,00 Allied troops.who crossed the English Channel and landed. Thid was a surprise attack arranged by June 6 of 1944, in the beaches of Normandy, France. This attack was led by the presidents Franklin Roosevelt, Joseph Stalin and the prime minister Winston Churchill, who inspired many people with his speeches to participate in the invasion and helped leading the Allies to victory.
 
 ---
 

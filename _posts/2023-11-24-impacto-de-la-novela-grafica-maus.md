@@ -23,3 +23,9 @@ Los personajes en la obra son representados por animales antropomorfos, cada raz
 * Ayuda al lector a identificar los personajes, algo imposible* si se tratase solo de humanos, ya que se necesitaría mayor contextualización.
 
 [※ Haz clic aqui para ver este articulo como diapositiva.](https://docs.google.com/presentation/d/1c0Jz4OkPrccSP2OYNx-CMJ87Ru2WxD58ik_gshK-nII/edit?usp=sharing)
+
+# ¿Cómo se entrelazan los conceptos históricos de la Segunda Guerra Mundial con los elementos literarios de “Maus” para crear una comprensión más rica de la narrativa?
+
+
+
+# ¿De qué manera las investigaciones históricas sobre la Segunda Guerra Mundial influyen en la creación de diálogos y monólogos basados en “Maus” para las actuaciones teatrales
