@@ -1,17 +1,31 @@
 ---
 layout: post
-title: Impacto de la novela grafica Maus
-description: Comming Soon...
+title: Novela Grafica Maus
+description: a...
 summary: Comming Soon...
 tags: Español, Literatura
-minute: 1
+minute: \!10"
 ---
 
-![Maus. Art Spiegelman](https://static.timesofisrael.com/www/uploads/2014/01/maus-mask-e1390470010394-1024x640.jpg)
 
+
+## Tabla de contenido:
+
+1. [13 - 17 nov](#¿como-se-presentan-a-los-personajes-en-la-obra)
+2. [20 - 24 nov](#¿cómo-se-entrelazan-los-conceptos-históricos-de-la-segunda-guerra-mundial-con-los-elementos-literarios-de-maus-para-crear-una-comprensión-más-rica-de-la-narrativa)
+
+3. [27/11 - 1 dic](#¿cómo-la-situación-histórica-y-cultural-de-la-vida-de-spiegelman-se-refleja-en-su-enfoque-rtístico-narrativo-en-maus)
+4. [4 - 8 dic](#¿como-se-presentan-a-los-personajes-en-la-obra)
+5. [11 - 15 dic](#¿cómo-se-entrelazan-los-conceptos-históricos-de-la-segunda-guerra-mundial-con-los-elementos-literarios-de-maus-para-crear-una-comprensión-más-rica-de-la-narrativa)
+6. [18 - 22 dic](#)
+7. [3 - 12 enero]()
+8. [15 - 19 enero]()
+
+### ¿Cómo la situación histórica y cultural de la vida de Spiegelman se refleja en su enfoque rtístico narrativo en "Maus"?
+
+### ¿Por qué es importante contextualizar una obra antes de leerla?
 
 ### ¿Como se presentan a los personajes en la obra?
-
 
 "Maus" es una novela gráfica creada por Art Spiegelman que utiliza la metáfora de animales para representar a diferentes grupos étnicos involucrados en la Segunda Guerra Mundial, especialmente a los judíos durante el Holocausto. La combinación de elementos históricos y literarios en "Maus" contribuye a una comprensión más rica de la narrativa de varias maneras:
 
@@ -36,3 +50,6 @@ Este conocimiento proporciona detalles precisos para garantizar la fidelidad his
 Además, contextualiza emocionalmente la obra al capturar con precisión las complejas emociones experimentadas durante la guerra.
 
 La investigación histórica también inspira la creación de personajes basados en personas reales que vivieron en ese tiempo. Esto asegura un abordaje ético y respetuoso hacia los temas, como el Holocausto, para fundamentar las adaptaciónes teatrales con historia sin modificarla.
+
+////////////////
+Cómo han experimentado el desarrollo de sus habilidades interdisciplinarias durante este        proyecto, y de qué manera han sido beneficiosas para su comprensión de la Segunda        Guerra Mundial y "Maus"?    Reflexionen sobre cómo la comprensión interdisciplinaria que han adquirido en esta unidad    podría traducirse en acciones concretas en sus vidas o en la comunidad. ¿De qué manera        planean utilizar su conocimiento para abordar cuestiones del mundo real?
