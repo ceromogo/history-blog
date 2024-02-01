@@ -50,6 +50,3 @@ Este conocimiento proporciona detalles precisos para garantizar la fidelidad his
 Además, contextualiza emocionalmente la obra al capturar con precisión las complejas emociones experimentadas durante la guerra.
 
 La investigación histórica también inspira la creación de personajes basados en personas reales que vivieron en ese tiempo. Esto asegura un abordaje ético y respetuoso hacia los temas, como el Holocausto, para fundamentar las adaptaciónes teatrales con historia sin modificarla.
-
-////////////////
-Cómo han experimentado el desarrollo de sus habilidades interdisciplinarias durante este        proyecto, y de qué manera han sido beneficiosas para su comprensión de la Segunda        Guerra Mundial y "Maus"?    Reflexionen sobre cómo la comprensión interdisciplinaria que han adquirido en esta unidad    podría traducirse en acciones concretas en sus vidas o en la comunidad. ¿De qué manera        planean utilizar su conocimiento para abordar cuestiones del mundo real?
